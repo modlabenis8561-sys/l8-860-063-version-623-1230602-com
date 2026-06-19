@@ -1,0 +1,22 @@
+{
+  "parsed_movies": 2000,
+  "movie_pages": 2000,
+  "category_pages": 10,
+  "category_coverage": {
+    "日韩热播": 200,
+    "亚洲精选": 200,
+    "欧美佳片": 200,
+    "悬疑犯罪": 200,
+    "爱情剧情": 200,
+    "喜剧综艺": 200,
+    "动作冒险": 200,
+    "家庭治愈": 200,
+    "动画纪录": 200,
+    "全球片库": 200
+  },
+  "m3u8_sources_from_uploaded_js": 150,
+  "unique_m3u8_sources": 20,
+  "baidu_analytics_id": "95df08bc498ee0333203841fd6fee1eb",
+  "logo": "日韩视频免费",
+  "validation_failures": []
+}
